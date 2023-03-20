@@ -1,1 +1,1 @@
-worker: python bot_with_aiogram.py
+worker: python bot_with_aiogram
